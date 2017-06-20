@@ -146,6 +146,10 @@ Options:
 
 #### Description
 
+In this exercise birdears will play two notes, the tonic and the interval
+harmonically, ie., both on the same time and you should reply which is the
+correct distance between the two.
+
 #### Command-line options
 
 ```
